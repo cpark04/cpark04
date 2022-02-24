@@ -6,7 +6,7 @@ Feel free to reach out to me 👇🏻 👇🏻
 [![image](https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b)](https://angel.co/u/chris-park-23)
 
 ## About Me 😃
-### I am a software engineer with passionate in problem solving and learning new languages. 
+### I am a software engineer with a passion in problem solving and learning new languages. 
 
 - I am Bilingual 🇰🇷 🇺🇸
 - I love roasting my own coffee ☕
@@ -14,7 +14,7 @@ Feel free to reach out to me 👇🏻 👇🏻
 - I am currently brushing up my skills in Javascript 🎖
 
 
-## I recently working with ...
+## I recently worked with ...
 
 <a href="https://reactjs.org" title="React" rel="nofollow">
     <img alt src="assets/img/icons8-react-native-48.png" style="max-width: 100%;">
