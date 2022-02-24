@@ -14,7 +14,7 @@ Feel free to reach out to me 👇🏻 👇🏻
 - I am currently brushing up my skills in Javascript 🎖
 
 
-## I recently worked with ...
+## I recently worked with:
 
 <a href="https://reactjs.org" title="React" rel="nofollow">
     <img alt src="assets/img/icons8-react-native-48.png" style="max-width: 100%;">
