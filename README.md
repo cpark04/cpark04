@@ -1,8 +1,8 @@
 ### Hi there 👋   I am Chris Park 😁
 Feel free to reach out to me 👇🏻 👇🏻
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/arwen-kim-85a01b221)](https://www.linkedin.com/in/cpark04/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arwensoojinkim@gmail.com)](mailto:cpark2653@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$link=https://www.linkedin.com/in/cpark04/)](https://www.linkedin.com/in/cpark04/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cpark2653@gmail.com)](mailto:cpark2653@gmail.com)
 [![image](https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b)](https://angel.co/u/chris-park-23)
 
 ## About Me 😃
